@@ -1,0 +1,23 @@
+.floating-button {
+position: absolute;
+right: 40px;
+bottom: 150px;
+}
+.header{
+  display: flex;
+  justify-content: end;
+  background: #1d84e2;
+  color: #fff;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: space-evenly;
+  color: #1d84e2;
+  background: #fff;
+}
